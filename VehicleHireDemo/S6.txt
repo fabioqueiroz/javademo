@@ -1,0 +1,6 @@
+// New customer data
+// data is customerID, surname, firstName, otherInitials, title
+AB-190835, surname 1, first name 1, T 1, Mr
+AB-115661, surname 2, first name 2, T 2, Dr
+AB-673537, surname 4, first name 4, T 4, Ms
+AB-127282, surname 3, first name 3, T 3, Mrs

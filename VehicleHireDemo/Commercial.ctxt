@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Commercial
+comment0.text=\r\n\ This\ class\ defines\ a\ commercial\ object\ and\ is\r\n\ designed\ to\ be\ a\ base\ class\ for\ other\ classes\r\n\r\n\ @author\ Fabio\ Viana\ Queiroz\r\n\ @00336760\ -\ Group\ 1\r\n\ @module\ Programming\ 2\ -\ Final\ Project\r\n\ @date\ 29/04/2019\r\n
+comment1.params=
+comment1.target=Commercial()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Commercial\r\n
+comment2.params=
+comment2.target=int\ getPayLoad()
+comment3.params=payLoad
+comment3.target=void\ setPayLoad(int)
+comment4.params=
+comment4.target=void\ printDetails()
+comment5.params=strScanner
+comment5.target=void\ readData(java.util.Scanner)
+numComments=6

@@ -1,0 +1,9 @@
+[Truck data]
+// data is Group, VehID, RegNo, Make, Model, AirCon or Climate Control, Engine Size (litres), Fuel type, Gearbox, Transmission, Mileage, Date first registered, Payload (kg), Features
+T2, JK-69991, GH08YDC, Ford, Transit TD Ci 100 PS , No, 2.4, Diesel, five-speed manual, RWD,  22673, 03-03-2008, 1100, Tipper, dual rear wheels
+T2, JK-68002, GH08YDD, Ford, Transit TD Ci 100 PS , No, 2.4, Diesel, five-speed manual, RWD, 20561, 03-03-2008, 1100, Tipper, dual rear wheels
+T4, JK-64294, GH08YFT, Ford, Transit TD Ci 100 PS , No, 2.4, Diesel, five-speed manual, RWD, 25334, 17-03-2008, 1100, Double cab, Tipper, dual rear wheels
+T1, JK-67056, LG59BNR, Ford, Transit TDCi 100PS, No, 2.4, Diesel, five-speed manual, RWD, 8965, 16-10-2009 , 1110, dropside (removable side and tailboards)
+T3, JK-64314, KL09KLW, Renault, Trafic LH29dCi 150, Yes, 2.5, Diesel, six-speed manual, FWD, 14561, 22-06-2009, 1205, Tail-lift, sliding side door
+T5, JK-69690, KL09KGF, Renault, Mascott  130.35, Yes, 3.0, Diesel, six-speed manual, RWD, 12378, 12-07-2009, 2700, Refrigerate, tail-lift
+T5, JK-60163, KL09KGG, Renault, Mascott  130.35, Yes, 3.0, Diesel, six-speed manual, RWD, 13244, 12-07-2009, 2700, Refrigerate, tail-lift

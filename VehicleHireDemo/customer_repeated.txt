@@ -1,0 +1,10 @@
+// New customer data
+// data is customerID, surname, firstName, otherInitials, title
+AB-0, Newton, David, E, Dr
+AB-1, Gregson, Brian, R T, Mr
+unknown, Evans, David, , Dr
+unknown, Smith, Sara, C, Ms
+unknown, surname 1, firstName 1, E, Dr
+unknown, surname 2, firstName 2, R T, Mr
+unknown, surname 3, firstName 3, , Dr
+unknown, surname 4, firstName 4, C, Ms

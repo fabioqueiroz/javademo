@@ -1,0 +1,8 @@
+[van data]
+// data is Group, VehID, RegNo, Make, Model, AirCon or Climate Control, Engine Size (litres), Fuel type, Gearbox, Transmission, Mileage, Date first registered, Payload (kg), Load Compartment Volume (m3), Sliding Side Door
+C1, GH-68135, TG59DCF, Volkswagen, Caddy 140PS,  No, 2.0, Diesel, five-speed manual, FWD,  2795, 23-11-2009, 724, 3.2, Yes
+C1, GH-69474, PX58HJE, Ford, Connect 1.8 TD Ci 110 PS (T200), No, 1.8, Diesel, five-speed manual, FWD, 23897, 12-01-2009, 648, 3.4, Yes
+C1, GH-68002, DC09RTY , Renault, Kangoo ML 19P 90, Yes, 1.5, Petrol, five-speed manual, FWD, 9458, 12-08-2009, 650, 3.0, Yes
+C2, GH-60634, PY09GHC, Ford, Transit TD Ci 140 PS, No, 2.4, Diesel, five-speed manual, RWD, 11853 , 05-07-2009, 1342, 6.1, Yes
+C2, GH-67163, PY09GHD, Ford, Transit TD Ci 140 PS, No, 2.4, Diesel, five-speed manual, RWD, 14577, 05-07-2009, 1342, 6.1, Yes
+C2, GH-64019, PY09GHE, Ford, Transit TD Ci 140 PS, No, 2.4, Diesel, five-speed manual, RWD, 8945, 25-08-2009, 1342, 6.1, Yes

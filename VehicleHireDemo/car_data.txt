@@ -1,0 +1,10 @@
+[Car data]
+// data is Group, VehID, RegNo, Make, Model, AirCon or Climate Control, Engine Size (litres), Fuel type, Gearbox, Transmission, Mileage, Date first registered, Body type, Number of doors, Number of seats
+AA, TF-63403, MJ09TFE, Fiat, Panda Active Eco, No,  1.1, Unleaded, five-speed manual, FWD, 13584, 29-07-2009, Hatchback, 5, 5
+A, TF-61273, MJ09TFD, Fiat, Grande Punto Active, No, 1.4, Unleaded, five-speed manual, FWD, 14278, 12-05-2009, Hatchback, 3, 5
+A, TF-64810, NR59GHD, Ford, Ka Style, No, 1.2, Unleaded, five-speed manual, FWD, 12892, 01-10-2009, Hatchback, 3, 4
+B, TF-68670, MA59DCS, Vauxhall, Corsa Exclusiv, Yes, 1.4, Unleaded, four-speed auto, FWD, 1734, 12-12-2009, Hatchback, 5, 5
+B, TF-61854, MJ09TFG, Fiat, Grande Punto Eleganza, Yes, 1.4, Unleaded, five-speed manual, FWD, 22451, 12-05-2009, Hatchback, 5, 5
+B, TF-69215, PT09TAW, Peugeot, 207 Urban, Yes, 1.4, Diesel, five-speed manual, FWD, 2645, 23-11-2009, Hatchback, 5, 5
+C, TF-67358, NR59GHM, Ford, Mondeo TDCi Zetec, Yes, 2.0, Diesel, six-speed manual, FWD, 803, 21-02-2010, Saloon, 4, 5
+C, TF-65118, NR59GHN, Ford, Mondeo TDCi Zetec, Yes, 2.0, Diesel, six-speed manual, FWD, 1103, 21-02-2010, Saloon, 4, 5
